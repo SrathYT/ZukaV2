@@ -49,26 +49,26 @@ global.sdc = 'https://t.me/BotzzMeeOFC'
 global.snh = 'wa.me/6283174508962'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '60175158221'
+global.povo = '60175158221'
+global.pgopay = '60175158221'
+global.ppulsa = '60175158221'
+global.ppulsa2 = '60175158221'
+global.psaweria = '?'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '60175158221'
+global.nomorown = '60175158221'
 global.namebot = 'BotzzMee'
-global.nameown = 'ZukashikaⒸ︎'
+global.nameown = 'SrathYTⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['60175158221'],
+  ['60175158221'],
+  ['60175158221'],
+  ['60175158221', 'BotzzMee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
